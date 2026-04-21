@@ -1,2 +1,2 @@
 # Fast-API Tutorial
-* Practice / Learn Fast-API from: https://www.youtube.com/watch?v=uDUfZyNXFX0
+* Practice / Learn Fast-API from: https://www.youtube.com/watch?v=iWS9ogMPOI0
